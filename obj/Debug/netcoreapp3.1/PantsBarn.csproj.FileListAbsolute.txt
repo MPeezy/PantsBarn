@@ -1,0 +1,40 @@
+C:\Users\Tiia\source\repos\PantsBarn\PantsBarn\bin\Debug\netcoreapp3.1\PantsBarn.exe
+C:\Users\Tiia\source\repos\PantsBarn\PantsBarn\bin\Debug\netcoreapp3.1\PantsBarn.deps.json
+C:\Users\Tiia\source\repos\PantsBarn\PantsBarn\bin\Debug\netcoreapp3.1\PantsBarn.runtimeconfig.json
+C:\Users\Tiia\source\repos\PantsBarn\PantsBarn\bin\Debug\netcoreapp3.1\PantsBarn.runtimeconfig.dev.json
+C:\Users\Tiia\source\repos\PantsBarn\PantsBarn\bin\Debug\netcoreapp3.1\PantsBarn.dll
+C:\Users\Tiia\source\repos\PantsBarn\PantsBarn\bin\Debug\netcoreapp3.1\PantsBarn.pdb
+C:\Users\Tiia\source\repos\PantsBarn\PantsBarn\obj\Debug\netcoreapp3.1\PantsBarn.csprojAssemblyReference.cache
+C:\Users\Tiia\source\repos\PantsBarn\PantsBarn\obj\Debug\netcoreapp3.1\PantsBarn.AssemblyInfoInputs.cache
+C:\Users\Tiia\source\repos\PantsBarn\PantsBarn\obj\Debug\netcoreapp3.1\PantsBarn.AssemblyInfo.cs
+C:\Users\Tiia\source\repos\PantsBarn\PantsBarn\obj\Debug\netcoreapp3.1\PantsBarn.csproj.CoreCompileInputs.cache
+C:\Users\Tiia\source\repos\PantsBarn\PantsBarn\obj\Debug\netcoreapp3.1\PantsBarn.dll
+C:\Users\Tiia\source\repos\PantsBarn\PantsBarn\obj\Debug\netcoreapp3.1\PantsBarn.pdb
+C:\Users\Tiia\source\repos\PantsBarn\PantsBarn\obj\Debug\netcoreapp3.1\PantsBarn.genruntimeconfig.cache
+C:\Users\TKansa\source\repos\PantsBarn\PantsBarn\bin\Debug\netcoreapp3.1\PantsBarn.exe
+C:\Users\TKansa\source\repos\PantsBarn\PantsBarn\bin\Debug\netcoreapp3.1\PantsBarn.deps.json
+C:\Users\TKansa\source\repos\PantsBarn\PantsBarn\bin\Debug\netcoreapp3.1\PantsBarn.runtimeconfig.json
+C:\Users\TKansa\source\repos\PantsBarn\PantsBarn\bin\Debug\netcoreapp3.1\PantsBarn.runtimeconfig.dev.json
+C:\Users\TKansa\source\repos\PantsBarn\PantsBarn\bin\Debug\netcoreapp3.1\PantsBarn.dll
+C:\Users\TKansa\source\repos\PantsBarn\PantsBarn\bin\Debug\netcoreapp3.1\PantsBarn.pdb
+C:\Users\TKansa\source\repos\PantsBarn\PantsBarn\obj\Debug\netcoreapp3.1\PantsBarn.csprojAssemblyReference.cache
+C:\Users\TKansa\source\repos\PantsBarn\PantsBarn\obj\Debug\netcoreapp3.1\PantsBarn.AssemblyInfoInputs.cache
+C:\Users\TKansa\source\repos\PantsBarn\PantsBarn\obj\Debug\netcoreapp3.1\PantsBarn.AssemblyInfo.cs
+C:\Users\TKansa\source\repos\PantsBarn\PantsBarn\obj\Debug\netcoreapp3.1\PantsBarn.csproj.CoreCompileInputs.cache
+C:\Users\TKansa\source\repos\PantsBarn\PantsBarn\obj\Debug\netcoreapp3.1\PantsBarn.dll
+C:\Users\TKansa\source\repos\PantsBarn\PantsBarn\obj\Debug\netcoreapp3.1\PantsBarn.pdb
+C:\Users\TKansa\source\repos\PantsBarn\PantsBarn\obj\Debug\netcoreapp3.1\PantsBarn.genruntimeconfig.cache
+C:\Users\MPatton5\OneDrive - KNEX\Downloads\PantsBarn-master\PantsBarn-master\PantsBarn\bin\Debug\netcoreapp3.1\PantsBarn.exe
+C:\Users\MPatton5\OneDrive - KNEX\Downloads\PantsBarn-master\PantsBarn-master\PantsBarn\bin\Debug\netcoreapp3.1\PantsBarn.deps.json
+C:\Users\MPatton5\OneDrive - KNEX\Downloads\PantsBarn-master\PantsBarn-master\PantsBarn\bin\Debug\netcoreapp3.1\PantsBarn.runtimeconfig.json
+C:\Users\MPatton5\OneDrive - KNEX\Downloads\PantsBarn-master\PantsBarn-master\PantsBarn\bin\Debug\netcoreapp3.1\PantsBarn.runtimeconfig.dev.json
+C:\Users\MPatton5\OneDrive - KNEX\Downloads\PantsBarn-master\PantsBarn-master\PantsBarn\bin\Debug\netcoreapp3.1\PantsBarn.dll
+C:\Users\MPatton5\OneDrive - KNEX\Downloads\PantsBarn-master\PantsBarn-master\PantsBarn\bin\Debug\netcoreapp3.1\PantsBarn.pdb
+C:\Users\MPatton5\OneDrive - KNEX\Downloads\PantsBarn-master\PantsBarn-master\PantsBarn\obj\Debug\netcoreapp3.1\PantsBarn.csproj.AssemblyReference.cache
+C:\Users\MPatton5\OneDrive - KNEX\Downloads\PantsBarn-master\PantsBarn-master\PantsBarn\obj\Debug\netcoreapp3.1\PantsBarn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MPatton5\OneDrive - KNEX\Downloads\PantsBarn-master\PantsBarn-master\PantsBarn\obj\Debug\netcoreapp3.1\PantsBarn.AssemblyInfoInputs.cache
+C:\Users\MPatton5\OneDrive - KNEX\Downloads\PantsBarn-master\PantsBarn-master\PantsBarn\obj\Debug\netcoreapp3.1\PantsBarn.AssemblyInfo.cs
+C:\Users\MPatton5\OneDrive - KNEX\Downloads\PantsBarn-master\PantsBarn-master\PantsBarn\obj\Debug\netcoreapp3.1\PantsBarn.csproj.CoreCompileInputs.cache
+C:\Users\MPatton5\OneDrive - KNEX\Downloads\PantsBarn-master\PantsBarn-master\PantsBarn\obj\Debug\netcoreapp3.1\PantsBarn.dll
+C:\Users\MPatton5\OneDrive - KNEX\Downloads\PantsBarn-master\PantsBarn-master\PantsBarn\obj\Debug\netcoreapp3.1\PantsBarn.pdb
+C:\Users\MPatton5\OneDrive - KNEX\Downloads\PantsBarn-master\PantsBarn-master\PantsBarn\obj\Debug\netcoreapp3.1\PantsBarn.genruntimeconfig.cache
